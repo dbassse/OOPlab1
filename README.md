@@ -1,6 +1,6 @@
 # 🎯 Лабораторная работа по ООП.
 
-![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)
 ![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)
 ![Type Checking](https://img.shields.io/badge/types-mypy-blue.svg)
 ![Testing](https://img.shields.io/badge/tests-pytest-green.svg)
@@ -21,4 +21,5 @@
 - **Инкапсуляция** - сокрытие внутренней реализации
 - **Наследование** - создание иерархий классов  
 - **Полиморфизм** - единый интерфейс для разных типов
+
 
